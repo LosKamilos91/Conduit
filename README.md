@@ -1,5 +1,5 @@
 # Conduit
-The website is for testing purposes. This is a demonstration site where you can browse and write posts and add comments.
+The website is for testing purposes. This is a demonstration site where you can view and write posts and add comments.
 
 #### Tested site:
 ```
