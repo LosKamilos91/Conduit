@@ -8,7 +8,7 @@ https://conduit.mate.academy/
 
 #### Test Plan
 ```
-...
+https://docs.google.com/document/d/1VruqeW4bKY4MO2PAAASPdTTgVmi11jbSEwtImTKtq9A/edit?usp=drive_link
 ```
 
 #### RTM
