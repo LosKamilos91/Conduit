@@ -29,9 +29,9 @@ https://docs.google.com/spreadsheets/d/1ZHTZam3-fpatn9zz2gVWg1vPw9AZkovqCbY_CB1l
 ```
 
 ## Test Cases
-Sign in & Sign Up:
+Example test cases for: **Sign In**, **Sign Up**, ...
 ```
-...
+https://drive.google.com/drive/folders/1D3cucKo0xXfIKn-6b9rn6UWhaIbxS8F5?usp=drive_link
 ```
 
 ## Test Runs
