@@ -35,7 +35,6 @@ Sign in & Sign Up:
 ```
 
 ## Test Runs
-Shopping Cart:
 ```
 ...
 ```
