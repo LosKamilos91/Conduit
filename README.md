@@ -3,3 +3,8 @@ A demonstration website for testing purposes in which we can check, among other 
 
 ### Website
 https://conduit.mate.academy/
+
+## Test Plan
+```
+...
+```
