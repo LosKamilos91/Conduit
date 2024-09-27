@@ -3,7 +3,7 @@ A demonstration website for testing purposes in which we can check, among other 
 
 **Website**: https://conduit.mate.academy/
 
-## Test Plan
+## Test Plan - In Progress
 ```
-...
+https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip/view?usp=drive_link
 ```
