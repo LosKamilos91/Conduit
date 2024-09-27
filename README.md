@@ -7,3 +7,15 @@ A demonstration website for testing purposes in which we can check, among other 
 ```
 https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip/view?usp=drive_link
 ```
+
+## Test Design Techniques
+
+**Decision Tables**
+```
+https://docs.google.com/spreadsheets/d/1_QwLYoHX-wFwLkbF4XeUC8xj2N0owpHUrGfPhyajdVg/edit?usp=drive_link
+```
+
+**Permission Testing**
+```
+https://docs.google.com/spreadsheets/d/1sWTXYgmUzHOWZ_byyDByNwEZc-Yge0oUUuSJHusPbYI/edit?usp=drive_link
+```
