@@ -1,4 +1,4 @@
-# Conduit ![](https://geps.dev/progress/15)
+# Conduit ![](https://geps.dev/progress/25)
 A demonstration website for testing purposes in which we can check, among other things, how the functions for creating, editing, and deleting posts and comments work, as well as check the operation of individual functionalities available in the software.
 
 **Website**: https://conduit.mate.academy/
