@@ -1,4 +1,4 @@
-# Conduit ![](https://geps.dev/progress/30)
+# Conduit ![image](https://geps.dev/progress/30)
 A demonstration website for testing purposes in which we can check, among other things, how the functions for creating, editing, and deleting posts and comments work, as well as check the operation of individual functionalities available in the software.
 
 **Website**: https://conduit.mate.academy/
@@ -15,3 +15,7 @@ A demonstration website for testing purposes in which we can check, among other 
 ```
 https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip/view?usp=drive_link
 ```
+
+## Test Cycle - QMetry
+![image](https://github.com/user-attachments/assets/3a03f8a6-ac33-40ad-8039-4cf9720eb6f7)
+
