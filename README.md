@@ -35,3 +35,11 @@ https://docs.google.com/spreadsheets/d/1IOOXzgVQhU8L94FGYlnniQPbRjLNq-5KXBSmMT0a
 ## Test Cycle - QMetry
 ![image](https://github.com/user-attachments/assets/3a03f8a6-ac33-40ad-8039-4cf9720eb6f7)
 
+## Test Reports
+
+![image](https://github.com/user-attachments/assets/44939ebb-dbbe-4b42-b488-2efd3e1c00ad)
+
+![image](https://github.com/user-attachments/assets/89694a66-0421-4f9d-9096-8b596cb65e12)
+
+![image](https://github.com/user-attachments/assets/bdca9091-17c8-4063-abe6-0b9506dbb1e7)
+
