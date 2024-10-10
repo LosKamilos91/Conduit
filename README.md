@@ -16,6 +16,20 @@ A demonstration website for testing purposes in which we can check, among other 
 https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip/view?usp=drive_link
 ```
 
+## Test Cases
+```
+https://docs.google.com/spreadsheets/d/1jhdSheEp4UuOUg-6s1QSJWD9kB-VjyLG8XLarTi69gE/edit?gid=0
+```
+
+### Bugs 
+
+![image](https://github.com/user-attachments/assets/21b8708b-b9ca-479c-8d6e-03b2e99c83ca)
+
+
+```
+https://docs.google.com/spreadsheets/d/1IOOXzgVQhU8L94FGYlnniQPbRjLNq-5KXBSmMT0aptQ/edit?gid=714604170
+```
+
 ## Test Cycle - QMetry
 ![image](https://github.com/user-attachments/assets/3a03f8a6-ac33-40ad-8039-4cf9720eb6f7)
 
