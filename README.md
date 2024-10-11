@@ -13,7 +13,7 @@ A demonstration website for testing purposes in which we can check, among other 
 
 ## Test Plan - Confluence
 ```
-https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip
+https://drive.google.com/file/d/1UbIdFTEh6EvnyfX9bkic_5ouxOvzLB1g
 ```
 
 ## Test Cycle & Reports (QMetry)
