@@ -13,7 +13,7 @@ A demonstration website for testing purposes in which we can check, among other 
 
 ## Test Plan - Confluence
 ```
-https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip/view?usp=drive_link
+https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip
 ```
 
 ## Test Cycle & Reports (QMetry)
@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1nxlHEVy6pTpbem3y0cQt-9Kiz2SKyCip/view?usp=drive
 ## Test Cases (QMetry)
 
 ```
-https://docs.google.com/spreadsheets/d/1jhdSheEp4UuOUg-6s1QSJWD9kB-VjyLG8XLarTi69gE/edit?gid=0
+https://docs.google.com/spreadsheets/d/1jhdSheEp4UuOUg-6s1QSJWD9kB-VjyLG8XLarTi69gE
 ```
 
 ![image](https://github.com/user-attachments/assets/d59651e5-b644-4ff8-bc44-72c53268dddb)
@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1jhdSheEp4UuOUg-6s1QSJWD9kB-VjyLG8XLarTi6
 ## Bugs (QMetry)
 
 ```
-https://docs.google.com/spreadsheets/d/1IOOXzgVQhU8L94FGYlnniQPbRjLNq-5KXBSmMT0aptQ/edit?gid=714604170
+https://docs.google.com/spreadsheets/d/1IOOXzgVQhU8L94FGYlnniQPbRjLNq-5KXBSmMT0aptQ
 ```
 
 ![image](https://github.com/user-attachments/assets/21b8708b-b9ca-479c-8d6e-03b2e99c83ca)
