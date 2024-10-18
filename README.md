@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1jhdSheEp4UuOUg-6s1QSJWD9kB-VjyLG8XLarTi6
 
 ![image](https://github.com/user-attachments/assets/d59651e5-b644-4ff8-bc44-72c53268dddb)
 
-## Bugs (QMetry)
+## Bugs (Jira)
 
 ```
 https://docs.google.com/spreadsheets/d/1IOOXzgVQhU8L94FGYlnniQPbRjLNq-5KXBSmMT0aptQ
