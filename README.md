@@ -1,3 +1,7 @@
+# Conduit
+
+
+<!--
 # Conduit ![image](https://geps.dev/progress/100)
 A demonstration website for testing purposes in which we can check, among other things, how the functions for creating, editing, and deleting posts and comments work, as well as check the operation of individual functionalities available in the software.
 
@@ -46,3 +50,4 @@ https://docs.google.com/spreadsheets/d/1IOOXzgVQhU8L94FGYlnniQPbRjLNq-5KXBSmMT0a
 ```
 
 ![image](https://github.com/user-attachments/assets/21b8708b-b9ca-479c-8d6e-03b2e99c83ca)
+-->
