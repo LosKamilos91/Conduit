@@ -1,31 +1,25 @@
 # Conduit ![image](https://geps.dev/progress/10)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-B3DDE0?style=for-the-badge) <!--![Ready To Automate](https://img.shields.io/badge/-Ready%20To%20Automate-FAD5B4?style=for-the-badge)-->
 
+The **Conduit** app was designed as an open-source educational tool for future software testers. Its main goal is to allow users to test and develop their software development and testing skills practically. The application provides an environment for simulating real test scenarios, allowing users to improve their theoretical knowledge and gain practical experience. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-# 📄 JPet Store 
-
-
-
-The **JPet Store** website is a demo application made for testing purposes. It is an online store related to pet store. Like most online stores, you can browse and search the product catalog, select products to add to the cart, change the cart, and order products in the cart. This project involves the testing of an application cart. Testing includes **GUI testing**, **Functional Testing**, as well as **Permission Testing** and **RTM** documentation. The goal of the project was to detect bugs and make sure the cart worked properly.
-
-**Website**: [https://www.saucedemo.com/](https://jpetstore.mate.academy/jpetstore/actions/Catalog.action)
+**Website**: https://conduit.mate.academy
 
 > [!NOTE]
 > All data contained in this topic is for demonstration purposes and was created to represent activities for personal use.
 
+## 📋 Project content
+
+1. **Test Plan** (Confluence);
+2. **Requirements** (Confluence);
+
+### 📄 Test Plan
+Outlines the process of approaching testing. A detailed document can be found in the `test-plan.pdf` file.
+
+## 📁 Documentation
+- **Test Plan**: [test-plan.pdf](https://drive.google.com/file/d/1N9_BclIEtEAQhXNqiE08FuciGJ00_8iV)
+
+<!--
 ## 📋 Project content
 1. **RTM** (Requirement Traceability Matrix);
 2. **Permission Testing**;
