@@ -10,24 +10,30 @@ The **Conduit** app was designed as an open-source educational tool for future s
 
 ## 📋 Project content
 
+<!--Sprawdzić jak stworzyć content -->
+
 1. **Test Plan** (Confluence);
 2. **Requirements** (Confluence);
+3. **Test Design Techniques**:<br>
+   3.1 **RTM** (Requirement Traceability Matrix);<br>
+   3.2 **Equivalence Class** & **Boundary Value**,<br>
+   3.3 **Decision Tables**,<br>
+   3.4 **Permission Testing**<br>
+4. **Test Cases** (QMeter);
+5. **Run Tests** (QMeter);
+6. **Bug Reports** (JIRA);
+7. **Test Reports** (QMeter);
 
-### 📄 Test Plan
-Outlines the process of approaching testing. A detailed document can be found in the `test-plan.pdf` file.
+### 📄 1. Test Plan
+Soon
+
+### 📝 2. Requirements
+Soon
 
 ## 📁 Documentation
-- **Test Plan**: [test-plan.pdf](https://drive.google.com/file/d/1N9_BclIEtEAQhXNqiE08FuciGJ00_8iV)
+Soon
 
 <!--
-## 📋 Project content
-1. **RTM** (Requirement Traceability Matrix);
-2. **Permission Testing**;
-3. **Cart Requirements** (Confluence)
-4. **Test Cases**; (TestRail)
-5. **Run Tests** (TestRail) - GUI and Functional tests
-6. **Bug Reports** (Trello)
-7. **Test Reports**
 
 ### 🔗 1. RTM
 The project uses RTM to ensure that all cart functions are tested. A detailed RTM document can be found in the `RTM.xlxs` file.
@@ -110,14 +116,6 @@ The cart testing project has ensured that key functions have been checked and th
 
 
 <!--
-# Conduit ![image](https://geps.dev/progress/100)
-A demonstration website for testing purposes in which we can check, among other things, how the functions for creating, editing, and deleting posts and comments work, as well as check the operation of individual functionalities available in the software.
-
-**Website**: https://conduit.mate.academy/
-
-> [!NOTE]
-> All data contained in this topic is for demonstration purposes and was created to represent activities for personal use.
-
 #### TEST DESIGN TECHNIQUES
 - [Decision Tables](https://docs.google.com/spreadsheets/d/1_QwLYoHX-wFwLkbF4XeUC8xj2N0owpHUrGfPhyajdVg/edit?usp=sharing),
 - [Permission Testing](https://docs.google.com/spreadsheets/d/1sWTXYgmUzHOWZ_byyDByNwEZc-Yge0oUUuSJHusPbYI/edit?usp=sharing),
